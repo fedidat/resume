@@ -1,13 +1,6 @@
-Please feel free to use this simple publishing tool for your own documents. Simply edit resume.md
-to your liking, and run the `publish` script to generate html, doc, odt and pdf versions. You'll 
-need to adapt the `publish` script if you want to use it on files that are named something other 
-than "resume".
+This is the tool that generates my resume in English, French and Hebrew,
+from Markdown to HTML, ODT, DOC and PDF.
 
-To see the generated html version live go to http://jacksenechal.com/resume/.
+Many thanks for the wonderful idea and execution to [Jack Senechal](https://github.com/jacksenechal/resume)!
 
-Requirements
-------------
-
-- pandoc
-- libreoffice (Ubuntu users should install `libreoffice-common`)
-
+Read the blog posts about it ([part 1](https://fedidat.com/2018/05/06/150-resume/), [part 2](https://fedidat.com/2018/05/28/210-resume-pt-2/)).

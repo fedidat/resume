@@ -1,16 +1,57 @@
 #!/bin/bash
 
-pandoc resume.md -o index.html -t html5 \
-  --smart \
+#Fonts
+cp Sawasdee.ttf output
+cp DavidLibre-Regular.ttf output
+
+#English
+pandoc src/resume_en.md -o output/resume_en.html -t html5 \
+  -f markdown+smart \
   --standalone \
   --email-obfuscation=references \
   --data-dir=_pandoc \
-  --include-in-header=_pandoc/header_styles.html \
-  --include-before-body=_pandoc/header.html \
-  --include-after-body=_pandoc/footer.html \
-  --variable="pagetitle:Resume :: Jack Senechal"
+  --include-in-header=_pandoc/header_styles_en.html \
+  --include-before-body=_pandoc/header_en.html \
+  --include-after-body=_pandoc/footer_en.html \
+  --variable="pagetitle:Resume :: Ben Fedidat"
 
-pandoc resume.md -o resume.odt --reference-odt=_pandoc/reference.odt
+pandoc src/resume_en.md -o output/resume_en.odt --reference-doc=_pandoc/reference_en.odt
 
-libreoffice --headless --convert-to doc resume.odt
-libreoffice --headless --convert-to pdf resume.odt
+libreoffice --headless --convert-to doc output/resume_en.odt --outdir output
+libreoffice --headless --convert-to pdf output/resume_en.odt --outdir output
+
+#French
+pandoc src/resume_fr.md -o output/resume_fr.html -t html5 \
+  -f markdown+smart \
+  --standalone \
+  --email-obfuscation=references \
+  --data-dir=_pandoc \
+  --include-in-header=_pandoc/header_styles_fr.html \
+  --include-before-body=_pandoc/header_fr.html \
+  --include-after-body=_pandoc/footer_fr.html \
+  --variable="pagetitle:CV :: Ben Fedidat"
+
+pandoc src/resume_fr.md -o output/resume_fr.odt --reference-doc=_pandoc/reference_fr.odt
+
+libreoffice --headless --convert-to doc output/resume_fr.odt --outdir output
+libreoffice --headless --convert-to pdf output/resume_fr.odt --outdir output
+
+#Hebrew
+pandoc src/resume_he.md -o output/resume_he.html -t html5 \
+	-V dir=rtl \
+  -f markdown+smart \
+  --standalone \
+  --email-obfuscation=references \
+  --data-dir=_pandoc \
+  --include-in-header=_pandoc/header_styles_he.html \
+  --include-before-body=_pandoc/header_he.html \
+  --include-after-body=_pandoc/footer_he.html \
+  --variable="pagetitle:קורות חיים :: בן פדידה"
+
+pandoc src/resume_he.md -o output/resume_he.odt --reference-doc=_pandoc/reference_he.odt
+
+libreoffice --headless --convert-to doc output/resume_he.odt --outdir output
+libreoffice --headless --convert-to pdf output/resume_he.odt --outdir output
+
+echo "copying"
+cp output/* /home/ben/Desktop/dev/HexoSite/source/docs/cv
