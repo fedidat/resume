@@ -51,7 +51,7 @@ Anglais et hébreu: fluent.
 
 
 ## Project management (in the frame of studies)
-* **Projet de fin de cycle** : développement d’un schéma de chiffrement à sécurité inconditionnelle fonctionnant sur la couche physique, basé sur le One-Time Pad, qui implémente également la stéganographie ; production d’un prototype basé sur des cartes Arduino Due. L’idée a été brevetée et un produit commercial est en développement. Note : **99/100**.
+* **Projet de fin de cycle** : développement d’un schéma de chiffrement à sécurité inconditionnelle fonctionnant sur la couche physique, basé sur le One-Time Pad, qui implémente également la stéganographie ; production d’un prototype basé sur des cartes Arduino Due. L’idée a été brevetée (https://patents.google.com/patent/WO2015097312A1) et un produit commercial est en développement. Note : **99/100**.
 * Projet en ingénierie de systèmes Windows (C#.NET, WCF, WPF, ASP.NET). Note : 100.
 * Projet en systèmes d’organisation de fichiers (architecture en couches, Managed C++, Windows Forms). Note : 100.
 * Projet en Java (MVC, JPA, Swing, Webservices, C# client, JSP). Note : 100. 
