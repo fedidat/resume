@@ -54,4 +54,4 @@ libreoffice --headless --convert-to doc output/resume_he.odt --outdir output
 libreoffice --headless --convert-to pdf output/resume_he.odt --outdir output
 
 echo "copying"
-cp output/* /home/ben/Desktop/dev/HexoSite/source/docs/cv
+cp output/* /home/ben/Desktop/dev/HexoSite/source/cv

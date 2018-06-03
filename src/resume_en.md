@@ -4,9 +4,9 @@ dir: ltr
 title: Ben Fedidat
 ---
 
-Site: [https://fedidat.com/](https://fedidat.com/)  
+Site: <https://fedidat.com/>  
 Email: <ben@fedidat.com>  
-GitHub: [https://github.com/fedidat](https://github.com/fedidat)
+GitHub: <https://github.com/fedidat>  
 
 ## Education
 2009 - 2013: Jerusalem College of Technology Machon Lev - **B.Sc. in Telecommunications Engineering**, *with honors, average 92.39*
@@ -48,9 +48,8 @@ English & Hebrew: fluent
 
 French: mother tongue            
 
-
 ## Project management (in the frame of studies)
-* **Graduation project**: a physical-layer, unconditionally secure cryptosystem, based on the one-time pad, which also implements stenography, including a prototype running on Arduino Due boards. Patented as https://patents.google.com/patent/WO2015097312A1 and sold. Grade: **99/100**.
+* **Graduation project**: a physical-layer, unconditionally secure cryptosystem, based on the one-time pad, which also implements stenography, including a prototype running on Arduino Due boards. Patented as <https://patents.google.com/patent/WO2015097312A1> and sold. Grade: **99/100**.
 * Project in Windows Systems Programming (C#.NET, WCF, WPF, ASP.NET). Grade: 100.
 * Project in File Management Systems (layered architecture, Windows Forms, Managed C++). Grade: 100.
 * Project in Java (MVC, JPA/Derby, Swing GUI, Webservices, C# Client, JSP). Grade: 100.
