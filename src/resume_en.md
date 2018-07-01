@@ -17,11 +17,12 @@ GitHub: <https://github.com/fedidat>
 ## Experience
 June 2015 - present: **Military service in Israeli Air Force, Ofek unit**
 
-* Java programmer (including officer's course)
+* Java programmer, with permanent on-call responsibility for the core of a mission-critical system
+* Officer training, reached the rank of captain
 
 April. 2014 - June 2015: **Military service in Israeli C4I Corps**
 
-* CTO & Chief Engineer branch: researcher and prototype maker 
+* CTO & Chief Engineer branch: researcher and prototype maker
 * Matspen unit: SAP ERP BI/BW and web reports developer
 
 2012 - 2013: **Assistant teacher at the Jerusalem College of Technology**
@@ -34,17 +35,18 @@ April. 2014 - June 2015: **Military service in Israeli C4I Corps**
 * **Psychometric Test score: 724** according to the standard weighting, 741 according to the quantitative reasoning weighting. 
 
 ## Technology Skills 
-**Main language**: Java 7/8 (Spring, Tomcat, JPA).
+**Main language**: Java 8 (Spring Boot, Tomcat, JPA).
 
 **Additional languages**: ASP.NET, Bash, C, C#.NET, C++, HTML/CSS, Javascript/Node/Typescript, PHP, Python, PL/SQL.
 
-**Tools**: Arduino IDE, Eclipse, Git, IntelliJ IDEA, MATLAB, Ivy+Ant, Maven, Gradle, PL/SQL Developer, Adobe Photoshop, Visual Studio, Wireshark, Microsoft Office (Excel, Outlook, Powerpoint, Word, Visio, w/ VBA Macros), Docker, RedHat Openshift, Atlassian (JIRA, Bamboo, Bitbucket), JUnit, Jenkins CI.
+**Tools**: Eclipse, Git, IntelliJ IDEA, MATLAB, Ivy+Ant, Maven, Gradle, PL/SQL Developer, Adobe Photoshop, Visual Studio, Wireshark, Microsoft Office (Excel, Outlook, Powerpoint, Word, Visio, w/ VBA Macros), Docker, Red Hat Openshift, Atlassian (JIRA, Bamboo, Bitbucket), JUnit, Jenkins CI.
 
 **Additional Skills**: Knowledge in engineering processes and terminology, web development (client- and server-side), electronics, statistics, embedded systems, network security and management, cryptography, LAN/MAN/WAN networks, TCP-IP protocol stack, cellular networks, experience with Windows and GNU/Linux operating systems, CI/CD, scripting and automation. 
 
 ## Languages 
+English: fluent (IELTS band 8.5/9)
 
-English & Hebrew: fluent
+Hebrew: fluent
 
 French: mother tongue            
 

@@ -18,7 +18,8 @@ title: בן פדידה
 
 יוני 2015 - היום: **שירות צבאי בחיל האוויר, יחידת אופק**
 
-* מתכנת Java (כולל קורס קצינים)
+* מתכנת Java וכונן עבור התשתית של מערכת גדולה ומבצעית
+* קורס קצינים, שירות עד דרגת סרן
 
 אפריל 2014 - יוני 2015: **שירות צבאי בחיל התקשוב - לוט"ם**
 
@@ -38,11 +39,11 @@ title: בן פדידה
 
 ## ידע טכנולוגי
 
-**שפה עיקרית**: Java 7/8 (Spring, Tomcat, JPA).
+**שפה עיקרית**: Java 8 (Spring Boot, Tomcat, JPA).
 
 **שפות נוספות**: ASP.NET, Bash, C, C#.NET, C++, HTML/CSS, Javascript/Node/Typescript, PHP, Python, PL/SQL.
 
-**ידע באפליקציות**: Arduino IDE, Eclipse, Git, IntelliJ IDEA, MATLAB, Ivy+Ant, Maven, Gradle, PL/SQL Developer, Adobe Photoshop, Visual Studio, Wireshark, Microsoft Office (Excel, Outlook, Powerpoint, Word, Visio, w/ VBA Macros), Docker, RedHat Openshift, Atlassian (JIRA, Bamboo, Bitbucket), JUnit, Jenkins CI.
+**ידע באפליקציות**: Eclipse, Git, IntelliJ IDEA, MATLAB, Ivy+Ant, Maven, Gradle, PL/SQL Developer, Adobe Photoshop, Visual Studio, Wireshark, Microsoft Office (Excel, Outlook, Powerpoint, Word, Visio, w/ VBA Macros), Docker, Red Hat Openshift, Atlassian (JIRA, Bamboo, Bitbucket), JUnit, Jenkins CI.
 
 **ידע נוסף**: ידע בשיטות ומינוח הנדסה, בפיתוח web (שרת ולקוח), אלקטרוניקה וחשמל, סטטיסטיקה, מערכות משובצות,ניהול ואבטחת רשתות, רשתות WAN/MAN/LAN, מחסנית פרוטוקולים TCP-IP, רשתות ניידות, נסיון במערכות הפעלה Windows ו  GNU/Linux, CI/CD, סקריפטים ואוטומציה.
 
@@ -51,7 +52,7 @@ title: בן פדידה
 
 עברית: שליטה מלאה
 
-אנגלית: שליטה מלאה
+אנגלית: שליטה מלאה (8.5/9 במבחן IELTS)
 
 צרפתית: שפת אם
 

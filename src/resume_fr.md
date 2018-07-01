@@ -17,7 +17,8 @@ GitHub: <https://github.com/fedidat>
 ## Expérience professionnelle
 Juin 2015 - aujourd'hui	: **Armée de l’air israëlienne, unité Ofek**
 
-* Programmeur en Java (inclus une formation d'officier)
+* Programmeur en Java, avec garde permanente pour la disponibilité d'un systême critique et opérationnel
+* Formation d'officier, service au rang de capitaine
 
 Avril 2014 - Juin 2015 : **Armée C4I (télécoms) israëlienne**
 
@@ -34,11 +35,11 @@ Avril 2014 - Juin 2015 : **Armée C4I (télécoms) israëlienne**
 * **Tests psychométriques : note standard 724**, raisonnement quantitatif 741. 
 
 ## Compétences informatiques 
-**Langue principale**: Java 7/8 (Spring, Tomcat, JPA).
+**Langue principale**: Java 8 (Spring Boot, Tomcat, JPA).
 
 **Autres langues**: ASP.NET, Bash, C, C#.NET, C++, HTML/CSS, Javascript/Node/Typescript, PHP, Python, PL/SQL.
 
-**Outils**: Arduino IDE, Eclipse, Git, IntelliJ IDEA, MATLAB, Ivy+Ant, Maven, Gradle, PL/SQL Developer, Adobe Photoshop, Visual Studio, Wireshark, Microsoft Office (Excel, Outlook, Powerpoint, Word, Visio, w/ VBA Macros), Docker, RedHat Openshift, Atlassian (JIRA, Bamboo, Bitbucket), JUnit, Jenkins CI.
+**Outils**: Eclipse, Git, IntelliJ IDEA, MATLAB, Ivy+Ant, Maven, Gradle, PL/SQL Developer, Adobe Photoshop, Visual Studio, Wireshark, Microsoft Office (Excel, Outlook, Powerpoint, Word, Visio, w/ VBA Macros), Docker, Red Hat Openshift, Atlassian (JIRA, Bamboo, Bitbucket), JUnit, Jenkins CI.
 
 **Autres connaissances**: Connaissances en processus et méthodologies d'ingénierie, développement web (client et serveur), électronique, statistiques, systèmes embarqués, gestion et sécurité des réseaux, réseaux LAN/MAN/WAN, protocoles TCP-IP, communications sans fil et cellulaires, expérience avec les systèmes d’exploitation Windows et GNU/Linux, scripts et automatisation. 
 
@@ -47,7 +48,9 @@ Avril 2014 - Juin 2015 : **Armée C4I (télécoms) israëlienne**
 
 Français: langue maternelle.
 
-Anglais et hébreu: fluent.
+Anglais: fluent (score IELTS 8.5/9).
+
+Hébreu: fluent.
 
 
 ## Project management (in the frame of studies)
