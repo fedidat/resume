@@ -30,28 +30,33 @@ April. 2014 - June 2015: **Military service in Israeli C4I Corps**
 * Assistant teacher in Linear Algebra, C++, WAN and File Systems
 
 
-## Honors
-* **2012 and 2013 excellence scholarships** of the Jerusalem College of Technology.
-* **Psychometric Test score: 724** according to the standard weighting, 741 according to the quantitative reasoning weighting. 
+## Honors, publications and certifications
+* **2012 and 2013 excellence scholarships** from the Jerusalem College of Technology.
+* **Psychometric Test score: 724/800** according to the standard weighting, 741/800 according to the quantitative reasoning weighting.
+* [Patent] Mirsky Yisroel, Fedidat Benjamin, Hadded Yoram. "A harmonic based encryption and decryption system for waveform signals." Patent WO2015097312A1, 26 Dec. 2013.
+* CCNA (Cisco Certified Network Associate) Certification, grade 893/1000.
 
 ## Technology Skills 
 **Main language**: Java 8 (Spring Boot, Tomcat, JPA).
 
-**Additional languages**: ASP.NET, Bash, C, C#.NET, C++, HTML/CSS, Javascript/Node/Typescript, PHP, Python, PL/SQL.
+**Additional languages**: Bash, JavaScript/Node/Typescript, Python, PL/SQL, C/C++, C#.NET, PHP.
 
-**Tools**: Eclipse, Git, IntelliJ IDEA, MATLAB, Ivy+Ant, Maven, Gradle, PL/SQL Developer, Adobe Photoshop, Visual Studio, Wireshark, Microsoft Office (Excel, Outlook, Powerpoint, Word, Visio, w/ VBA Macros), Docker, Red Hat Openshift, Atlassian (JIRA, Bamboo, Bitbucket), JUnit, Jenkins CI.
+**Tools**:
 
-**Additional Skills**: Knowledge in engineering processes and terminology, web development (client- and server-side), electronics, statistics, embedded systems, network security and management, cryptography, LAN/MAN/WAN networks, TCP-IP protocol stack, cellular networks, experience with Windows and GNU/Linux operating systems, CI/CD, scripting and automation. 
+* *IDEs*: Eclipse, IntelliJ IDEA, Visual Studio, Visual Studio Code
+* *Development tools*: Git, Gradle, Maven, Ivy, Ant, Jenkins CI, Docker, Atlassian Bamboo, Red Hat Openshift
+* *Office programs*: Microsoft Excel, Outlook, Powerpoint, Word, Visio, w/ VBA Macros
+* *Other tools*: MATLAB, PL/SQL Developer, Wireshark, JUnit
+
+**Skills and knowledge**: Engineering processes and terminology, web development (client- and server-side), electronics, statistics, embedded systems, network security and management, cryptography, LAN/WANs, TCP-IP protocol stack, cellular networks, experience with Windows and GNU/Linux operating systems, CI/CD, scripting and automation.
 
 ## Languages 
-English: fluent (IELTS band 8.5/9)
-
-Hebrew: fluent
-
-French: mother tongue            
+English: fluent (IELTS band 8.5/9)  
+Hebrew: fluent  
+French: mother tongue (TEF Level C2)
 
 ## Project management (in the frame of studies)
-* **Graduation project**: a physical-layer, unconditionally secure cryptosystem, based on the one-time pad, which also implements stenography, including a prototype running on Arduino Due boards. Patented as <https://patents.google.com/patent/WO2015097312A1> and sold. Grade: **99/100**.
+* **Graduation project**: a physical-layer and unconditionally secure cryptosystem based on the one-time pad, which also implements stenography, including a prototype running on Arduino Due boards. Patented and sold. Grade: **99/100**.
 * Project in Windows Systems Programming (C#.NET, WCF, WPF, ASP.NET). Grade: 100.
 * Project in File Management Systems (layered architecture, Windows Forms, Managed C++). Grade: 100.
 * Project in Java (MVC, JPA/Derby, Swing GUI, Webservices, C# Client, JSP). Grade: 100.
