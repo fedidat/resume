@@ -4,7 +4,7 @@
 cp *.ttf output
 
 #English
-pandoc src/resume_en.md -o output/ben_fedidat_resume.html -t html5 \
+/usr/bin/pandoc src/resume_en.md -o output/ben_fedidat_resume.html -t html5 \
   -f markdown+smart \
   --standalone \
   --email-obfuscation=references \
@@ -14,13 +14,13 @@ pandoc src/resume_en.md -o output/ben_fedidat_resume.html -t html5 \
   --include-after-body=_pandoc/footer_en.html \
   --variable="pagetitle:Resume :: Ben Fedidat"
 
-pandoc src/resume_en.md -o output/ben_fedidat_resume.odt --reference-doc=_pandoc/reference_en.odt
+/usr/bin/pandoc src/resume_en.md -o output/ben_fedidat_resume.odt --reference-doc=_pandoc/reference_en.odt
 
 libreoffice --headless --convert-to doc output/ben_fedidat_resume.odt --outdir output
 libreoffice --headless --convert-to pdf output/ben_fedidat_resume.odt --outdir output
 
 #French
-pandoc src/resume_fr.md -o output/ben_fedidat_resume_fr.html -t html5 \
+/usr/bin/pandoc src/resume_fr.md -o output/ben_fedidat_resume_fr.html -t html5 \
   -f markdown+smart \
   --standalone \
   --email-obfuscation=references \
@@ -30,13 +30,13 @@ pandoc src/resume_fr.md -o output/ben_fedidat_resume_fr.html -t html5 \
   --include-after-body=_pandoc/footer_fr.html \
   --variable="pagetitle:CV :: Ben Fedidat"
 
-pandoc src/resume_fr.md -o output/ben_fedidat_resume_fr.odt --reference-doc=_pandoc/reference_fr.odt
+/usr/bin/pandoc src/resume_fr.md -o output/ben_fedidat_resume_fr.odt --reference-doc=_pandoc/reference_fr.odt
 
 libreoffice --headless --convert-to doc output/ben_fedidat_resume_fr.odt --outdir output
 libreoffice --headless --convert-to pdf output/ben_fedidat_resume_fr.odt --outdir output
 
 #Hebrew
-pandoc src/resume_he.md -o output/ben_fedidat_resume_he.html -t html5 \
+/usr/bin/pandoc src/resume_he.md -o output/ben_fedidat_resume_he.html -t html5 \
 	-V dir=rtl \
   -f markdown+smart \
   --standalone \
@@ -47,7 +47,7 @@ pandoc src/resume_he.md -o output/ben_fedidat_resume_he.html -t html5 \
   --include-after-body=_pandoc/footer_he.html \
   --variable="pagetitle:קורות חיים :: בן פדידה"
 
-pandoc src/resume_he.md -o output/ben_fedidat_resume_he.odt --reference-doc=_pandoc/reference_he.odt
+/usr/bin/pandoc src/resume_he.md -o output/ben_fedidat_resume_he.odt --reference-doc=_pandoc/reference_he.odt
 
 libreoffice --headless --convert-to doc output/ben_fedidat_resume_he.odt --outdir output
 libreoffice --headless --convert-to pdf output/ben_fedidat_resume_he.odt --outdir output

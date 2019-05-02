@@ -16,42 +16,47 @@ title: בן פדידה
 
 ## ניסיון תעסוקתי
 
-יוני 2015 - היום: **שירות צבאי בחיל האוויר, יחידת אופק**
+אפריל 2019 - היום: **מפתח תוכנה אצל אמזון, Alexa Shopping**
 
-* מתכנת Java וכונן עבור התשתית של מערכת גדולה ומבצעית
-* קורס קצינים, שירות עד דרגת סרן
+* מפתח Java
+
+יוני 2015 - מרץ 2019: **שירות צבאי בחיל האוויר, יחידת אופק**
+
+* מתכנת Java וכונן עבור הליבה של מערכות גדולות ומבצעיות
+* פיתוח שירותים חדשים ומודרניים, כולל ארכיטקטורה ולוגיקה עסקית
+* הובלתי שינוי של תצורות לcontainer-ים ומודרניזציה של תהליכי build ו-CI
+* תפקיד עיקרי במיגרציה מסיבית בין תשתיות שרתי אפליקציה
+* פתירת עשרות תקלות קשורות ללוגיקה, ביצועים, אמינות ושרידות
+* השלמת קורס קצינים, שירות עד דרגת סרן
 
 אפריל 2014 - יוני 2015: **שירות צבאי בחיל התקשוב - לוט"ם**
 
-* ענף המהנדס הראשי וה-CTO: חוקר ומתכנת מדגימים טכנולוגים
-* יחידת מצפ"ן: מפתח דוחות סטטיסטים ב-SAP ERP בסביבת BI
-
-2012 - 2013: **מרכז האקדמי לב - מכון לב: מרצה תגבורים**
-
-* אלגברה ליניארית, C++, WAN ומערכות קבצים
+* ענף המהנדס הראשי וה-CTO: חוקר ומתכנת מדגימים טכנולוגיים עם מערכות משובצות
+* יחידת מצפ"ן: מפתח דוחות סטטיסטים ב-SAP ERP בסביבת BI, ב-full stack ו-d3.js
 
 
 ## הצטיינויות, פרסומים והכשרות
 
 - **מלגות הצטיינות** של שנות לימודים **תשע"ב ותשע"ג** של המרכז האקדמי לב (מכון לב)
 - **ציון בחינה פסיכומטרית**: **724/800** לפי שקלול סטנדרטי, **741/800** לפי שיקלול כמותי
+- תעודת הערכה ממפקד היחידה (סא"ל) לשנת 2019.
 * [פטנט] Mirsky Yisroel, Fedidat Benjamin, Hadded Yoram. "A harmonic based encryption and decryption system for waveform signals." Patent WO2015097312A1, 26 Dec. 2013
 * הכשרת CCNA (Cisco Certified Network Associate), ציון 893/1000
 
 
-
 ## ידע טכנולוגי
 
-**שפה עיקרית**: Java 8 (Spring Boot, Tomcat, JPA).
+**שפות תכנות**:
 
-**שפות נוספות**: Bash, JavaScript/Node/Typescript, Python, PL/SQL, C/C++, C#.NET, PHP.
+* רמה מקצועית: Java (Spring Boot, Tomcat, JPA)
+* ידע נוכחי: PL/SQL, JavaScript/Node/Typescript, Python, Bash, Golang
+* נסיון קודם: C/C++, C#.NET, Kotlin, PHP
 
 **כלים**:
 
 * *סביבות פיתוח*: Eclipse, IntelliJ IDEA, Visual Studio, Visual Studio Code
 * *כלי פיתוח*: Git, Gradle, Maven, Ivy, Ant, Jenkins CI, Docker, Atlassian Bamboo, Red Hat Openshift
-* *תוכנות משרדיות*: Microsoft Excel, Outlook, Powerpoint, Word, Visio, w/ VBA Macros
-* *כלים אחרים*: MATLAB, PL/SQL Developer, Wireshark, JUnit
+* *כלים אחרים*: תוכנות משרדיות (Microsoft Word, Excel, Outlook, Powerpoint, Visio, VBA Macros), MATLAB, Wireshark, JUnit
 
 **ידע נוסף**: ידע בשיטות ומינוח הנדסה, בפיתוח web (שרת ולקוח), אלקטרוניקה וחשמל, סטטיסטיקה, מערכות משובצות,ניהול ואבטחת רשתות, רשתות WAN/MAN/LAN, מחסנית פרוטוקולים TCP-IP, רשתות ניידות, נסיון במערכות הפעלה Windows ו  GNU/Linux, CI/CD, סקריפטים ואוטומציה.
 
