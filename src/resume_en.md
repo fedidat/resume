@@ -17,7 +17,7 @@ GitHub: <https://github.com/fedidat>
 
 ## Experience
 
-April 2019 - present: **SDE at Amazon, Alexa Shopping**
+April 2019 - present: **SDE at Amazon**
 
 * Java programmer
 
@@ -41,8 +41,9 @@ April. 2014 - June 2015: **Military service in Israeli C4I Corps**
 * **2012 and 2013 excellence scholarships** from the Jerusalem College of Technology.
 * **Psychometric Test score: 724/800** according to the standard weighting, 741/800 according to the quantitative reasoning weighting.
 * 2019 Lt. Col.'s unit distinction for excellence.
-* [Patent] Mirsky Yisroel, Fedidat Benjamin, Hadded Yoram. "A harmonic based encryption and decryption system for waveform signals." Patent WO2015097312A1, 26 Dec. 2013.
 * CCNA (Cisco Certified Network Associate) Certification, grade 893/1000.
+* [Paper] Mirsky, Y., Fedidat, B., & Haddad, Y. (2019). Physical Layer Encryption using a Vernam Cipher. arXiv, arXiv-1910.
+* [Patent] Mirsky, Y., Fedidat, B., & Haddad, Y. A harmonic based encryption and decryption system for waveform signals. Patent WO2015097312A1, 26 Dec. 2013.
 
 
 ## Technology Skills
@@ -70,13 +71,4 @@ April. 2014 - June 2015: **Military service in Israeli C4I Corps**
 
 English: fluent (IELTS band 8.5/9)  
 Hebrew: fluent  
-French: mother tongue (TEF Level C2)
-
-
-## Project management (in the frame of studies)
-
-* **Graduation project**: a physical-layer and unconditionally secure cryptosystem based on the one-time pad, which also implements stenography, including a prototype running on Arduino Due boards. Patented and sold. Grade: **99/100**.
-* Project in Windows Systems Programming (C#.NET, WCF, WPF, ASP.NET). Grade: 100.
-* Project in File Management Systems (layered architecture, Windows Forms, Managed C++). Grade: 100.
-* Project in Java (MVC, JPA/Derby, Swing GUI, Webservices, C# Client, JSP). Grade: 100.
-* Project in Database Systems (ERD/DSD, Oracle DB, SQL, PL/SQL, ASP.NET GUI). Grade: 100.
+French: native (TEF Level C2)

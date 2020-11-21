@@ -16,7 +16,7 @@ title: בן פדידה
 
 ## ניסיון תעסוקתי
 
-אפריל 2019 - היום: **מפתח תוכנה אצל אמזון, Alexa Shopping**
+אפריל 2019 - היום: **מפתח תוכנה אצל אמזון**
 
 * מפתח Java
 
@@ -40,9 +40,9 @@ title: בן פדידה
 - **מלגות הצטיינות** של שנות לימודים **תשע"ב ותשע"ג** של המרכז האקדמי לב (מכון לב)
 - **ציון בחינה פסיכומטרית**: **724/800** לפי שקלול סטנדרטי, **741/800** לפי שיקלול כמותי
 - תעודת הערכה ממפקד היחידה (סא"ל) לשנת 2019.
-* [פטנט] Mirsky Yisroel, Fedidat Benjamin, Hadded Yoram. "A harmonic based encryption and decryption system for waveform signals." Patent WO2015097312A1, 26 Dec. 2013
 * הכשרת CCNA (Cisco Certified Network Associate), ציון 893/1000
-
+* [נייר] Mirsky, Y., Fedidat, B., & Haddad, Y. A harmonic based encryption and decryption system for waveform signals. Patent WO2015097312A1, 26 Dec. 2013.
+* [פטנט] Mirsky, Y., Fedidat, B., & Haddad, Y. (2019). Physical Layer Encryption using a Vernam Cipher. arXiv, arXiv-1910.
 
 ## ידע טכנולוגי
 
@@ -66,12 +66,3 @@ title: בן פדידה
 עברית: שליטה מלאה  
 אנגלית: שליטה מלאה (8.5/9 במבחן IELTS)  
 צרפתית: שפת אם (TEF רמה C2)
-
-
-## ניהול פרויקטים (במסגרת הלימודים)
-
-- **פרוייקט גמר**: שיטת הצפנה חדשנית בשכבה הפיזית, מבוססת על ה-One-time pad, מממשת הסתרת האות, כולל פיתוח אב טיפוס על לוחות Arduino Due. הרעיון זכה לפטנט ונמכר. ציון: **99/100**.
-- פרויקט בהנדסת מערכות חלונות (C#.NET, WCF, WPF, ASP.NET). ציון: 100.
-- פרויקט בארגון וניהול קבצים (strictly layered architecture, Managed C++, Windows Forms). ציון: 100.
-- פרויקט בJava (MVC, JPA, Swing, Webservices, C# client, JSP). ציון: 100.
-- פרויקט בבסיסי נתונים (ERD/DSD, Oracle DB, PL/SQL, ASP.NET). ציון: 100.
